@@ -3,7 +3,7 @@ Vue shows the components of JSON data
 # jsonView怎么使用
 引用组件传入json数据即可展示
 
-![image](https://github.com/kinoaa/k-table/blob/main/jsonView.png)
+![image](https://github.com/kinoaa/jsonView/blob/main/jsonView.png)
 ```vue
 <template>
   <div>
