@@ -1,5 +1,6 @@
 # jsonView
 Vue shows the components of JSON data
+适用于Vue的Json数据展示组件，下载即用
 # jsonView怎么使用
 引用组件传入json数据即可展示
 
